@@ -68,21 +68,14 @@ The following resources were instrumental in learning and implementing the conce
 **GitHub Repositories**
 - https://github.com/leverxgroup/esrgan
 - https://github.com/lizhuoq/SRGAN
-- https://github.com/photosynthesis-team/piq
 
 **Tutorials and Documentation**
 - TensorFlow Hub ESRGAN Tutorial: https://www.tensorflow.org/hub/tutorials/image_enhancing
 - GeeksforGeeks ESRGAN with PyTorch: https://www.geeksforgeeks.org/image-super-resolution-with-esrgan-using-pytorch/
-- PyTorch Data Loading Tutorial: https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
-- TensorFlow DIV2K Dataset: https://www.tensorflow.org/datasets/catalog/div2k
-- Matplotlib Heatmap Guide: https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
 
 **Papers**
 - SRGAN: https://arxiv.org/pdf/1609.04802
 - ESRGAN: https://arxiv.org/abs/1809.00219
-
-**Video Explanation**
-- ESRGAN Explained: https://www.youtube.com/watch?v=8L11aMN5KY8
 
 ## Summary
 
