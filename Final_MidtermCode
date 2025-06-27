@@ -55,7 +55,7 @@ os.makedirs("outputs", exist_ok=True)
 save_image(sr.cpu(), 'outputs/sr.png')
 print("Super-resolved image saved to outputs/sr.png")
 
------
+#--- NEXT PART ---
 
 import tensorflow as tf
 import tensorflow_hub as hub
@@ -98,8 +98,7 @@ def main():
 if __name__ == '__main__':
     main()
 
------
-
+#--- NEXT PART ---
 import os
 from PIL import Image
 from torch.utils.data import Dataset, DataLoader
